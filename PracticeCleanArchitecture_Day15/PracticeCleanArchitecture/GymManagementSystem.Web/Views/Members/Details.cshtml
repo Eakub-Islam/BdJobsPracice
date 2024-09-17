@@ -1,0 +1,39 @@
+﻿@model GymManagementSystem.DTO.MemberDto
+
+<h2>Member Details</h2>
+
+<div>
+    <h4>Member</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.MemberName) <!-- Updated property -->
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MemberName) <!-- Updated property -->
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.MemberEmail) <!-- Updated property -->
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MemberEmail) <!-- Updated property -->
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.MemberPhoneNumber) <!-- Updated property -->
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MemberPhoneNumber) <!-- Updated property -->
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.MemberSubscriptionType) <!-- Updated property -->
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MemberSubscriptionType) <!-- Updated property -->
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.MemberId">Edit</a> <!-- Updated property -->
+    |
+    <a asp-action="Index">Back to List</a>
+</div>

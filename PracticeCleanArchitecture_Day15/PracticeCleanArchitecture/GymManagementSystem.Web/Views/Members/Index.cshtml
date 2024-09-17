@@ -1,0 +1,32 @@
+﻿@model IEnumerable<GymManagementSystem.DTO.MemberDto>
+
+<h1>Members</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Member Name</th> 
+            <th>Member Email</th> 
+            <th>Member Phone Number</th> 
+            <th>Subscription Type</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var member in Model)
+        {
+            <tr>
+                <td>@member.MemberName</td> 
+                <td>@member.MemberEmail</td> 
+                <td>@member.MemberPhoneNumber</td> 
+                <td>@member.MemberSubscriptionType</td> 
+                <td>
+                    <a href="@Url.Action("Edit", new { id = member.MemberId })" class="btn btn-primary">Edit</a> 
+                    <a href="@Url.Action("Details", new { id = member.MemberId })" class="btn btn-secondary">Details</a> 
+                    <a href="@Url.Action("Delete", new { id = member.MemberId })" class="btn btn-danger">Delete</a> 
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Create")" class="btn btn-success">Create New</a>

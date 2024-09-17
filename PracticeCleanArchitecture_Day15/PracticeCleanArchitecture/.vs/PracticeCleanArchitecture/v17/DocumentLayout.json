@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1468FEF1-66F2-46CE-BA82-8659E9DFC1F9}|GymManagementSystem.Handler\\GymManagementSystem.Handler.csproj|d:\\eakub\\practice\\practicecleanarchitecture_day15\\practicecleanarchitecture\\gymmanagementsystem.handler\\imemberservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1468FEF1-66F2-46CE-BA82-8659E9DFC1F9}|GymManagementSystem.Handler\\GymManagementSystem.Handler.csproj|solutionrelative:gymmanagementsystem.handler\\imemberservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1468FEF1-66F2-46CE-BA82-8659E9DFC1F9}|GymManagementSystem.Handler\\GymManagementSystem.Handler.csproj|d:\\eakub\\practice\\practicecleanarchitecture_day15\\practicecleanarchitecture\\gymmanagementsystem.handler\\memberservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1468FEF1-66F2-46CE-BA82-8659E9DFC1F9}|GymManagementSystem.Handler\\GymManagementSystem.Handler.csproj|solutionrelative:gymmanagementsystem.handler\\memberservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B59CD96-0079-4CAA-954B-929D283821C9}|GymManagementSystem.Repositories\\GymManagementSystem.Repositories.csproj|d:\\eakub\\practice\\practicecleanarchitecture_day15\\practicecleanarchitecture\\gymmanagementsystem.repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B59CD96-0079-4CAA-954B-929D283821C9}|GymManagementSystem.Repositories\\GymManagementSystem.Repositories.csproj|solutionrelative:gymmanagementsystem.repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B59CD96-0079-4CAA-954B-929D283821C9}|GymManagementSystem.Repositories\\GymManagementSystem.Repositories.csproj|d:\\eakub\\practice\\practicecleanarchitecture_day15\\practicecleanarchitecture\\gymmanagementsystem.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B59CD96-0079-4CAA-954B-929D283821C9}|GymManagementSystem.Repositories\\GymManagementSystem.Repositories.csproj|solutionrelative:gymmanagementsystem.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BDA69C-A89E-4EBD-88B9-E4F4B152F5D8}|GymManagementSystem.Web\\GymManagementSystem.Web.csproj|d:\\eakub\\practice\\practicecleanarchitecture_day15\\practicecleanarchitecture\\gymmanagementsystem.web\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BDA69C-A89E-4EBD-88B9-E4F4B152F5D8}|GymManagementSystem.Web\\GymManagementSystem.Web.csproj|solutionrelative:gymmanagementsystem.web\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6655E-ACBE-43C6-87ED-1C13085DC200}|GymManagementSystem.AggregateRoots\\GymManagementSystem.AggregateRoots.csproj|d:\\eakub\\practice\\practicecleanarchitecture_day15\\practicecleanarchitecture\\gymmanagementsystem.aggregateroots\\validator\\membervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6655E-ACBE-43C6-87ED-1C13085DC200}|GymManagementSystem.AggregateRoots\\GymManagementSystem.AggregateRoots.csproj|solutionrelative:gymmanagementsystem.aggregateroots\\validator\\membervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMemberServiceHandler.cs",
+              "DocumentMoniker": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.Handler\\IMemberServiceHandler.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem.Handler\\IMemberServiceHandler.cs",
+              "ToolTip": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.Handler\\IMemberServiceHandler.cs",
+              "RelativeToolTip": "GymManagementSystem.Handler\\IMemberServiceHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:17:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberServiceHandler.cs",
+              "DocumentMoniker": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.Handler\\MemberServiceHandler.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem.Handler\\MemberServiceHandler.cs",
+              "ToolTip": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.Handler\\MemberServiceHandler.cs",
+              "RelativeToolTip": "GymManagementSystem.Handler\\MemberServiceHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:17:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.Web\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem.Web\\Controllers\\MembersController.cs",
+              "ToolTip": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.Web\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "GymManagementSystem.Web\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:16:55.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem.Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.Repositories\\IRepository.cs",
+              "RelativeToolTip": "GymManagementSystem.Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:11:07.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem.Repositories\\Repository.cs",
+              "ToolTip": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.Repositories\\Repository.cs",
+              "RelativeToolTip": "GymManagementSystem.Repositories\\Repository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:11:03.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberValidator.cs",
+              "DocumentMoniker": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.AggregateRoots\\Validator\\MemberValidator.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem.AggregateRoots\\Validator\\MemberValidator.cs",
+              "ToolTip": "D:\\Eakub\\Practice\\PracticeCleanArchitecture_Day15\\PracticeCleanArchitecture\\GymManagementSystem.AggregateRoots\\Validator\\MemberValidator.cs",
+              "RelativeToolTip": "GymManagementSystem.AggregateRoots\\Validator\\MemberValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:45:16.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

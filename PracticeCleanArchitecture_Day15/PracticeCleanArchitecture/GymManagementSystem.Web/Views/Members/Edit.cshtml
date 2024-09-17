@@ -1,0 +1,40 @@
+﻿@model GymManagementSystem.DTO.MemberDto
+
+<h1>Edit Member</h1>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="MemberId" /> 
+
+    <div class="form-group">
+        <label asp-for="MemberName" class="control-label"></label> 
+        <input asp-for="MemberName" class="form-control" /> 
+        <span asp-validation-for="MemberName" class="text-danger"></span> 
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MemberEmail" class="control-label"></label> 
+        <input asp-for="MemberEmail" class="form-control" /> 
+        <span asp-validation-for="MemberEmail" class="text-danger"></span> 
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MemberPhoneNumber" class="control-label"></label> 
+        <input asp-for="MemberPhoneNumber" class="form-control" />
+        <span asp-validation-for="MemberPhoneNumber" class="text-danger"></span> 
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MemberSubscriptionType" class="control-label"></label> 
+        <select asp-for="MemberSubscriptionType" class="form-control">
+            <option value="">Select Subscription Type</option>
+            <option value="Basic">Basic</option>
+            <option value="Premium">Premium</option>
+            <option value="VIP">VIP</option>
+        </select>
+        <span asp-validation-for="MemberSubscriptionType" class="text-danger"></span> 
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>
